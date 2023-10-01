@@ -1,1 +1,1 @@
-# Ethnus-Bootstrap
+# Ethnus-Bootstrap-and-JS-Tasks
